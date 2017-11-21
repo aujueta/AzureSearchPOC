@@ -1,0 +1,13 @@
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\bin\Debug\netcoreapp2.0\AzureSearch.Api.deps.json
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\bin\Debug\netcoreapp2.0\AzureSearch.Api.runtimeconfig.json
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\bin\Debug\netcoreapp2.0\AzureSearch.Api.runtimeconfig.dev.json
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\bin\Debug\netcoreapp2.0\AzureSearch.Api.dll
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\obj\Debug\netcoreapp2.0\AzureSearch.Api.csprojResolveAssemblyReference.cache
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\obj\Debug\netcoreapp2.0\AzureSearch.Api.csproj.CoreCompileInputs.cache
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\obj\Debug\netcoreapp2.0\AzureSearch.Api.AssemblyInfoInputs.cache
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\obj\Debug\netcoreapp2.0\AzureSearch.Api.AssemblyInfo.cs
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\bin\Debug\netcoreapp2.0\AzureSearch.Api.pdb
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\obj\Debug\netcoreapp2.0\AzureSearch.Api.dll
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\obj\Debug\netcoreapp2.0\AzureSearch.Api.pdb
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\bin\Debug\netcoreapp2.0\AzureSearch.Bll.dll
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Api\bin\Debug\netcoreapp2.0\AzureSearch.Bll.pdb

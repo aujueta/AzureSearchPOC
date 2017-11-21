@@ -1,0 +1,9 @@
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Bll\bin\Debug\netcoreapp2.0\AzureSearch.Bll.deps.json
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Bll\bin\Debug\netcoreapp2.0\AzureSearch.Bll.dll
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Bll\obj\Debug\netcoreapp2.0\AzureSearch.Bll.csprojResolveAssemblyReference.cache
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Bll\obj\Debug\netcoreapp2.0\AzureSearch.Bll.csproj.CoreCompileInputs.cache
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Bll\obj\Debug\netcoreapp2.0\AzureSearch.Bll.AssemblyInfoInputs.cache
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Bll\obj\Debug\netcoreapp2.0\AzureSearch.Bll.AssemblyInfo.cs
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Bll\bin\Debug\netcoreapp2.0\AzureSearch.Bll.pdb
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Bll\obj\Debug\netcoreapp2.0\AzureSearch.Bll.dll
+C:\Users\Alex Ujueta\Projects\POCs\AzureSearchPOC\AzureSearch.Bll\obj\Debug\netcoreapp2.0\AzureSearch.Bll.pdb
